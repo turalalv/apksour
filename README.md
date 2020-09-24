@@ -1,8 +1,7 @@
 # ApkSour
 Tool that allow extract endpoints from APK files
 
-[https://prnt.sc/un6kd5](url)
-
+(https://ibb.co/W0NbNV1)
 
 ## Install
 1) Install `apksour`
