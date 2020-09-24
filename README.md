@@ -32,4 +32,4 @@ Hey folks! 🙂
 
 Thank you for the interesting of this project! If you found any ideas about how to improve this tool - please write me a message on tural@mtasecurtiy.com or create new issues in this Github Project.
 
-Have a nice day! 😉
+Have a nice day!
