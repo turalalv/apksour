@@ -1,5 +1,5 @@
 # ApkSour
-Tool that allow extract endpoints from APK files
+Tool that allow extract endpoints from APK files.
 
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/M7NLVtT/icon.png" alt="icon" border="0"></a>
